@@ -3,7 +3,7 @@
 import UIKit
 
 // Generar un rango de 0 a 100, incluye el número 100 en el rango.
-var elements = 0...100
+let elements = 0...100
 
 // Tienes que iterar el rango completo, utilizando la sentencia for para obtener cada número del rango y aplicar las siguientes reglas de impresión.
 for element in elements {
